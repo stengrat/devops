@@ -17,9 +17,9 @@
 		<cucumber.version>4.7.0</cucumber.version>
 		<testng.version>6.14.3</testng.version>
 
-		<sonar.projectKey>fujioka</sonar.projectKey>
+		<sonar.projectKey>pucpr</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>01f6b5a30c2d830ba4e06127e73e27224c0f69ae</sonar.login>
+		<sonar.login>d82ebe1e2a2d57f909638f6dfd2d5bc5fb4ac065</sonar.login>
                 <sonar.sources>src/main/java</sonar.sources>
 
 	</properties>
